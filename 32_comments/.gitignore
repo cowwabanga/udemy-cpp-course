@@ -1,0 +1,6 @@
+# Ignore exe files
+*.exe
+# Ignore MSVC supplemental build files
+*.ilk
+*.pdb
+*.obj
